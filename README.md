@@ -1,16 +1,20 @@
-## Hi there 👋
+## 👋 Hi, I'm BART180604
 
-<!--
-**BART180604/BART180604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science student  
+💻 Fullstack Developer (React, Next.js, Node.js)  
+🎨 Passionné par les projets à forte identité visuelle
 
-Here are some ideas to get you started:
+### 🚀 Tech Stack
+- React / Next.js
+- TypeScript
+- Tailwind CSS
+- Node.js / Express
+- MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 What I build
+- Fullstack web applications
+- Editorial & artistic websites
+- Scalable UI architectures
+
+### 📌 Featured Projects
+⬇️ Check my pinned repositories below
